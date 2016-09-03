@@ -5,7 +5,7 @@
 #include <vector>
 #include <fstream>
 #include <string>
-#include <gl/glut.h>
+#include <glut.h>
 #include <math.h>
 #include <time.h>
 using namespace std;
